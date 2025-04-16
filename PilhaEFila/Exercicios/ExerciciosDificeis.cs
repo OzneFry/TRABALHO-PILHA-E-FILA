@@ -52,8 +52,7 @@ namespace PilhaEFila.Exercicios
                             }
                             temp.Push(carro);
                         }
-
-                        // Devolve os carros temporários
+                        
                         while (!temp.IsEmpty())
                             estacionamento.Push(temp.Pop());
 
@@ -159,7 +158,6 @@ namespace PilhaEFila.Exercicios
             }
         }
 
-        // Exercício 18: Resolver expressões pós-fixadas
         public static void Exercicio18()
         {
             Console.WriteLine("\nExercício 18: Resolver expressões pós-fixadas");
