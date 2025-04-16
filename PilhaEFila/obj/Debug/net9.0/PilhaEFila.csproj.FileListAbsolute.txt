@@ -1,0 +1,15 @@
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\bin\Debug\net9.0\PilhaEFila.exe
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\bin\Debug\net9.0\PilhaEFila.deps.json
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\bin\Debug\net9.0\PilhaEFila.runtimeconfig.json
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\bin\Debug\net9.0\PilhaEFila.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\bin\Debug\net9.0\PilhaEFila.pdb
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.AssemblyInfoInputs.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.AssemblyInfo.cs
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.csproj.CoreCompileInputs.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.sourcelink.json
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\refint\PilhaEFila.dll
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.pdb
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\PilhaEFila.genruntimeconfig.cache
+d:\OneDrive - GRUPO BIT\DADOS\Área de Trabalho\TRABALHO---PILHA-E-FILA\PilhaEFila\obj\Debug\net9.0\ref\PilhaEFila.dll
