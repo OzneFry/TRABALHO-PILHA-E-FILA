@@ -31,7 +31,6 @@ namespace PilhaEFila.Exercicios
             foreach (var nome in nomes)
                 fila.Enqueue(nome);
 
-            // Remove o primeiro
             fila.Dequeue();
 
             Console.WriteLine("Elementos restantes na fila:");
