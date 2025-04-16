@@ -43,15 +43,12 @@ namespace PilhaEFila.Exercicios
             IQueueOperations<int> fila = new MinhaFila<int>();
             IStackOperations<int> pilha = new MinhaPilha<int>();
 
-            // Preenche a fila
             for (int i = 1; i <= 5; i++)
                 fila.Enqueue(i);
 
-            // Transfere para pilha
             while (!fila.IsEmpty())
                 pilha.Push(fila.Dequeue());
 
-            // Devolve para fila (invertido)
             while (!pilha.IsEmpty())
                 fila.Enqueue(pilha.Pop());
 
